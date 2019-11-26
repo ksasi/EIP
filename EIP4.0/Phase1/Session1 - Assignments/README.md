@@ -26,4 +26,4 @@
   
   
 - - Result:
-  **The accuracy of the model for the test set i.e. score is 99.15%**
+  **The accuracy of the model for the test set i.e. score is 99.23%**

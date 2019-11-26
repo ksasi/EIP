@@ -26,86 +26,86 @@
       ```
       Train on 60000 samples, validate on 10000 samples
      
-     Epoch 00001: LearningRateScheduler reducing learning rate to 0.003.
+     Epoch 00001: LearningRateScheduler reducing learning rate to 0.3.
      Epoch 1/20
-     60000/60000 [==============================] - 18s 307us/sample - loss: 0.5462 - accuracy: 0.8163 - val_loss: 0.1993 - val_accuracy: 0.9437
+     60000/60000 [==============================] - 22s 362us/sample - loss: 0.4035 - accuracy: 0.8648 - val_loss: 0.1279 - val_accuracy: 0.9627
      
-     Epoch 00002: LearningRateScheduler reducing learning rate to 0.0022744503.
+     Epoch 00002: LearningRateScheduler reducing learning rate to 0.2274450341.
      Epoch 2/20
-     60000/60000 [==============================] - 15s 250us/sample - loss: 0.1759 - accuracy: 0.9351 - val_loss: 0.1033 - val_accuracy: 0.9700
+     60000/60000 [==============================] - 18s 303us/sample - loss: 0.1754 - accuracy: 0.9352 - val_loss: 0.0398 - val_accuracy: 0.9882
      
-     Epoch 00003: LearningRateScheduler reducing learning rate to 0.0018315018.
+     Epoch 00003: LearningRateScheduler reducing learning rate to 0.1831501832.
      Epoch 3/20
-     60000/60000 [==============================] - 15s 250us/sample - loss: 0.1427 - accuracy: 0.9425 - val_loss: 0.0435 - val_accuracy: 0.9865
+     60000/60000 [==============================] - 18s 302us/sample - loss: 0.1469 - accuracy: 0.9419 - val_loss: 0.0336 - val_accuracy: 0.9904
      
-     Epoch 00004: LearningRateScheduler reducing learning rate to 0.0015329586.
+     Epoch 00004: LearningRateScheduler reducing learning rate to 0.153295861.
      Epoch 4/20
-     60000/60000 [==============================] - 15s 247us/sample - loss: 0.1312 - accuracy: 0.9452 - val_loss: 0.0370 - val_accuracy: 0.9899
+     60000/60000 [==============================] - 18s 302us/sample - loss: 0.1332 - accuracy: 0.9455 - val_loss: 0.0313 - val_accuracy: 0.9917
      
-     Epoch 00005: LearningRateScheduler reducing learning rate to 0.0013181019.
+     Epoch 00005: LearningRateScheduler reducing learning rate to 0.1318101933.
      Epoch 5/20
-     60000/60000 [==============================] - 15s 249us/sample - loss: 0.1203 - accuracy: 0.9483 - val_loss: 0.0326 - val_accuracy: 0.9905
+     60000/60000 [==============================] - 18s 301us/sample - loss: 0.1262 - accuracy: 0.9475 - val_loss: 0.0306 - val_accuracy: 0.9915
      
-     Epoch 00006: LearningRateScheduler reducing learning rate to 0.0011560694.
+     Epoch 00006: LearningRateScheduler reducing learning rate to 0.1156069364.
      Epoch 6/20
-     60000/60000 [==============================] - 15s 250us/sample - loss: 0.1150 - accuracy: 0.9487 - val_loss: 0.0305 - val_accuracy: 0.9907
+     60000/60000 [==============================] - 18s 302us/sample - loss: 0.1195 - accuracy: 0.9497 - val_loss: 0.0278 - val_accuracy: 0.9924
      
-     Epoch 00007: LearningRateScheduler reducing learning rate to 0.0010295127.
+     Epoch 00007: LearningRateScheduler reducing learning rate to 0.1029512697.
      Epoch 7/20
-     60000/60000 [==============================] - 16s 260us/sample - loss: 0.1082 - accuracy: 0.9517 - val_loss: 0.0304 - val_accuracy: 0.9916
+     60000/60000 [==============================] - 18s 304us/sample - loss: 0.1118 - accuracy: 0.9525 - val_loss: 0.0284 - val_accuracy: 0.9920
      
-     Epoch 00008: LearningRateScheduler reducing learning rate to 0.0009279307.
+     Epoch 00008: LearningRateScheduler reducing learning rate to 0.0927930715.
      Epoch 8/20
-     60000/60000 [==============================] - 15s 251us/sample - loss: 0.1047 - accuracy: 0.9524 - val_loss: 0.0280 - val_accuracy: 0.9911
+     60000/60000 [==============================] - 18s 302us/sample - loss: 0.1148 - accuracy: 0.9504 - val_loss: 0.0237 - val_accuracy: 0.9936
      
-     Epoch 00009: LearningRateScheduler reducing learning rate to 0.0008445946.
+     Epoch 00009: LearningRateScheduler reducing learning rate to 0.0844594595.
      Epoch 9/20
-     60000/60000 [==============================] - 15s 246us/sample - loss: 0.1012 - accuracy: 0.9538 - val_loss: 0.0247 - val_accuracy: 0.9929
+     60000/60000 [==============================] - 18s 301us/sample - loss: 0.1077 - accuracy: 0.9527 - val_loss: 0.0235 - val_accuracy: 0.9932
      
-     Epoch 00010: LearningRateScheduler reducing learning rate to 0.0007749935.
+     Epoch 00010: LearningRateScheduler reducing learning rate to 0.0774993542.
      Epoch 10/20
-     60000/60000 [==============================] - 14s 241us/sample - loss: 0.0994 - accuracy: 0.9544 - val_loss: 0.0276 - val_accuracy: 0.9923
+     60000/60000 [==============================] - 18s 303us/sample - loss: 0.1111 - accuracy: 0.9512 - val_loss: 0.0240 - val_accuracy: 0.9931
      
-     Epoch 00011: LearningRateScheduler reducing learning rate to 0.0007159905.
+     Epoch 00011: LearningRateScheduler reducing learning rate to 0.0715990453.
      Epoch 11/20
-     60000/60000 [==============================] - 14s 241us/sample - loss: 0.0986 - accuracy: 0.9536 - val_loss: 0.0297 - val_accuracy: 0.9915
+     60000/60000 [==============================] - 18s 302us/sample - loss: 0.1024 - accuracy: 0.9539 - val_loss: 0.0234 - val_accuracy: 0.9932
      
-     Epoch 00012: LearningRateScheduler reducing learning rate to 0.000665336.
+     Epoch 00012: LearningRateScheduler reducing learning rate to 0.0665335995.
      Epoch 12/20
-     60000/60000 [==============================] - 15s 244us/sample - loss: 0.0952 - accuracy: 0.9552 - val_loss: 0.0236 - val_accuracy: 0.9926
+     60000/60000 [==============================] - 18s 303us/sample - loss: 0.1069 - accuracy: 0.9528 - val_loss: 0.0247 - val_accuracy: 0.9927
      
-     Epoch 00013: LearningRateScheduler reducing learning rate to 0.0006213753.
+     Epoch 00013: LearningRateScheduler reducing learning rate to 0.0621375311.
      Epoch 13/20
-     60000/60000 [==============================] - 14s 238us/sample - loss: 0.0918 - accuracy: 0.9563 - val_loss: 0.0241 - val_accuracy: 0.9933
+     60000/60000 [==============================] - 18s 302us/sample - loss: 0.1034 - accuracy: 0.9544 - val_loss: 0.0230 - val_accuracy: 0.9939
      
-     Epoch 00014: LearningRateScheduler reducing learning rate to 0.0005828638.
+     Epoch 00014: LearningRateScheduler reducing learning rate to 0.0582863804.
      Epoch 14/20
-     60000/60000 [==============================] - 15s 243us/sample - loss: 0.0932 - accuracy: 0.9566 - val_loss: 0.0257 - val_accuracy: 0.9929
+     60000/60000 [==============================] - 18s 306us/sample - loss: 0.1016 - accuracy: 0.9536 - val_loss: 0.0235 - val_accuracy: 0.9936
      
-     Epoch 00015: LearningRateScheduler reducing learning rate to 0.0005488474.
+     Epoch 00015: LearningRateScheduler reducing learning rate to 0.054884742.
      Epoch 15/20
-     60000/60000 [==============================] - 14s 242us/sample - loss: 0.0931 - accuracy: 0.9558 - val_loss: 0.0216 - val_accuracy: 0.9940
+     60000/60000 [==============================] - 18s 301us/sample - loss: 0.0995 - accuracy: 0.9540 - val_loss: 0.0215 - val_accuracy: 0.9940
      
-     Epoch 00016: LearningRateScheduler reducing learning rate to 0.0005185825.
+     Epoch 00016: LearningRateScheduler reducing learning rate to 0.0518582541.
      Epoch 16/20
-     60000/60000 [==============================] - 15s 248us/sample - loss: 0.0905 - accuracy: 0.9555 - val_loss: 0.0258 - val_accuracy: 0.9928
+     60000/60000 [==============================] - 18s 303us/sample - loss: 0.0998 - accuracy: 0.9543 - val_loss: 0.0217 - val_accuracy: 0.9942
      
-     Epoch 00017: LearningRateScheduler reducing learning rate to 0.000491481.
+     Epoch 00017: LearningRateScheduler reducing learning rate to 0.0491480996.
      Epoch 17/20
-     60000/60000 [==============================] - 15s 249us/sample - loss: 0.0893 - accuracy: 0.9564 - val_loss: 0.0232 - val_accuracy: 0.9936
+     60000/60000 [==============================] - 18s 302us/sample - loss: 0.1003 - accuracy: 0.9524 - val_loss: 0.0209 - val_accuracy: 0.9942
      
-     Epoch 00018: LearningRateScheduler reducing learning rate to 0.0004670715.
+     Epoch 00018: LearningRateScheduler reducing learning rate to 0.0467071462.
      Epoch 18/20
-     60000/60000 [==============================] - 15s 249us/sample - loss: 0.0894 - accuracy: 0.9557 - val_loss: 0.0216 - val_accuracy: 0.9937
+     60000/60000 [==============================] - 18s 302us/sample - loss: 0.0989 - accuracy: 0.9546 - val_loss: 0.0218 - val_accuracy: 0.9944
      
-     Epoch 00019: LearningRateScheduler reducing learning rate to 0.0004449718.
+     Epoch 00019: LearningRateScheduler reducing learning rate to 0.0444971818.
      Epoch 19/20
-     60000/60000 [==============================] - 15s 247us/sample - loss: 0.0884 - accuracy: 0.9556 - val_loss: 0.0221 - val_accuracy: 0.9937
+     60000/60000 [==============================] - 18s 302us/sample - loss: 0.0945 - accuracy: 0.9563 - val_loss: 0.0218 - val_accuracy: 0.9938
      
-     Epoch 00020: LearningRateScheduler reducing learning rate to 0.000424869.
+     Epoch 00020: LearningRateScheduler reducing learning rate to 0.0424868999.
      Epoch 20/20
-     60000/60000 [==============================] - 15s 245us/sample - loss: 0.0858 - accuracy: 0.9567 - val_loss: 0.0223 - val_accuracy: 0.9940
-     <tensorflow.python.keras.callbacks.History at 0x7fc92f150cf8>
+     60000/60000 [==============================] - 18s 299us/sample - loss: 0.0978 - accuracy: 0.9552 - val_loss: 0.0208 - val_accuracy: 0.9943
+     <tensorflow.python.keras.callbacks.History at 0x7f8ff4e34940>
      ```
- - - Result of model.evaluate is 99.4%
- - - Strategy taken is , initially ensure the total parameters were less than 15K by reducing the filters. Remove batchnormalization layer before flatten layer . Peform training.
+ - - Result of model.evaluate is 99.43%
+ - - Strategy taken is , initially ensure the total parameters were less than 15K by reducing the filters. Ensure 1x1 is used to reduce channels i.e. as bottleneck layer. Remove batchnormalization layer before flatten layer . Then change batch size and learning rate to ensure that target accuracy of more than 99.4% reaches within 20 epochs
