@@ -100,11 +100,10 @@
  - 
    - 50 epoch logs , best validation score is 82.85 at Epoch 28
 
-     ```
      Epoch 1/50
      391/391 [==============================] - 60s 155ms/step - loss: 1.4292 - accuracy: 0.4694 - val_loss: 2.7272 - val_accuracy: 0.1000
-Epoch 2/50
-     391/391 [==============================] - 47s 121ms/step - loss: 1.0240 - accuracy: 0.6316 - val_loss: 1.0199 - val_accuracy: 0.6311
+     Epoch 2/50
+391/391 [==============================] - 47s 121ms/step - loss: 1.0240 - accuracy: 0.6316 - val_loss: 1.0199 - val_accuracy: 0.6311
      Epoch 3/50
      391/391 [==============================] - 47s 121ms/step - loss: 0.8724 - accuracy: 0.6884 - val_loss: 0.8880 - val_accuracy: 0.6959
      Epoch 4/50
@@ -202,6 +201,5 @@ Epoch 2/50
      Epoch 50/50
      391/391 [==============================] - 47s 120ms/step - loss: 0.1649 - accuracy: 0.9400 - val_loss: 0.6947 - val_accuracy: 0.8189
      Model took 2377.63 seconds to train
-     ```
      
      
