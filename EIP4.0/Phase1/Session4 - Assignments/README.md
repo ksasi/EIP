@@ -8,7 +8,7 @@
      2. Please mention in the readme file that you have finished online annotation. 
      3. If you had already annotated before getting the online tool, then your github Repo MUST have the annotation files including images and json. 
      4. This part of the assignment is 2000 pts
-- **Image annotations are completed for Assignment 4A**
+- **Image annotations are completed for Assignment 4A via online tool**
   
 - Assignment 4B:
   
